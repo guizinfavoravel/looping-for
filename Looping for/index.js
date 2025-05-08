@@ -1,4 +1,4 @@
-//programa que solicita ao usuario um numero qye solicita o numero de 1 até o numero digitado
+//programa que solicita ao usuario um numero que solicita o numero de 1 até o numero digitado
 
 //solicita ao usuario maior que 1
 
